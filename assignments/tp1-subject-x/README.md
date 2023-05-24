@@ -250,6 +250,7 @@ _(colocar evidências que comprovem os itens opcionais implementados... por exem
 
 
 
+
 ## O que deve ser **apresentado**
 
 Na última aula do bimestre, o trabalho deve ser apresentado em sala de aula. Não é necessário fazer uma apresentação, mas apenas mostrar o site e falar sobre como foi seu desenvolvimento.
